@@ -71,15 +71,8 @@ I enjoy building **reliable, scalable systems** and automating deployment workfl
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishruti-18&theme=github_dark_dimmed&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishruti-18&layout=compact&theme=github_dark_dimmed)
-
----
-
 ## 🌐 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/vishruti-mathur  
-- 🌍 Portfolio: https://vishruti-s-portfolio.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/vishruti-mathur    
 - 📧 Email: vishrutimathur@gmail.com  
 
 ---
